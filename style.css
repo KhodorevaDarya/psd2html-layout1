@@ -171,6 +171,10 @@
 	font-family: Lato-Light;
 	}
 
+#footer-address {
+	margin-right: 50px;
+}
+
 .circle {
 	margin-top: 75px;
 }
